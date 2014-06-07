@@ -67,10 +67,10 @@
       <HintPath>..\..\Monogame\MacOS\Release\MonoMac.dll</HintPath>
     </Reference>
     <Reference Include="MonoGame.Framework">
-      <HintPath>..\..\Monogame\MacOS\Release\MonoGame.Framework.dll</HintPath>
+      <HintPath>..\..\..\Monogame\MacOS\Release\MonoGame.Framework.dll</HintPath>
     </Reference>
     <Reference Include="Lidgren.Network">
-      <HintPath>..\..\Monogame\MacOS\Release\Lidgren.Network.dll</HintPath>
+      <HintPath>..\..\..\Monogame\MacOS\Release\Lidgren.Network.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
