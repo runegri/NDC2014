@@ -25,7 +25,7 @@ namespace FarseerPhysics.DebugView
         //Drawing
         private PrimitiveBatch _primitiveBatch;
         private SpriteBatch _batch;
-        private SpriteFont _font;
+		//private SpriteFont _font;
         private GraphicsDevice _device;
         private Vector2[] _tempVertices = new Vector2[Settings.MaxPolygonVertices];
         private List<StringData> _stringData;
@@ -756,10 +756,10 @@ namespace FarseerPhysics.DebugView
             _batch.Begin(SpriteSortMode.Deferred, BlendState.AlphaBlend);
 
             // draw any strings we have
-            for (int i = 0; i < _stringData.Count; i++)
-            {
-                _batch.DrawString(_font, _stringData[i].Text, _stringData[i].Position, _stringData[i].Color);
-            }
+//            for (int i = 0; i < _stringData.Count; i++)
+//            {
+//                _batch.DrawString(_font, _stringData[i].Text, _stringData[i].Position, _stringData[i].Color);
+//            }
 
             // end the sprite batch effect
             _batch.End();
@@ -782,7 +782,7 @@ namespace FarseerPhysics.DebugView
             _device = device;
             _batch = new SpriteBatch(_device);
             _primitiveBatch = new PrimitiveBatch(_device, 1000);
-            _font = content.Load<SpriteFont>("Font");
+			//_font = content.Load<SpriteFont>("Font");
             _stringData = new List<StringData>();
 
             _localProjection = Matrix.CreateOrthographicOffCenter(0f, _device.Viewport.Width, _device.Viewport.Height, 0f, 0f, 1f);

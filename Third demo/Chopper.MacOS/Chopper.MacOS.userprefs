@@ -1,0 +1,13 @@
+﻿<Properties MonoDevelop.MonoMac.LastXamMacNagTime="07.06.2014 16:21:08">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BB.Mac/FarseerPhysics/DebugView/DebugViewXNA.cs">
+    <Files>
+      <File FileName="BB.Mac/Program.cs" Line="13" Column="4" />
+      <File FileName="BB.Mac/FarseerPhysics/DebugView/DebugViewXNA.cs" Line="469" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
