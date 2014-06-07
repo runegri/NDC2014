@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BubbleBobble1.Win8/FarseerPhysics/Dynamics/World.cs">
+    <Files>
+      <File FileName="BubbleBobble1.Win8/GameWorld.cs" Line="55" Column="29" />
+      <File FileName="BubbleBobble1.Win8/FarseerPhysics/Dynamics/World.cs" Line="110" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

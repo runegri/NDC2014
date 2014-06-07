@@ -1,0 +1,25 @@
+﻿<Properties MonoDevelop.MonoMac.LastXamMacNagTime="07.06.2014 15:49:04">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../BB/BubbleBobble1.Win8/BubbleBobble1.Win8/GameObject.cs">
+    <Files>
+      <File FileName="BB.Mac/Program.cs" Line="1" Column="1" />
+      <File FileName="BB.Mac/Info.plist" />
+      <File FileName="../BB/BubbleBobble1.Win8/BubbleBobble1.Win8/Bubble.cs" Line="1" Column="1" />
+      <File FileName="../BB/BubbleBobble1.Win8/BubbleBobble1.Win8/BubbleBobbleGame.cs" Line="1" Column="1" />
+      <File FileName="../BB/BubbleBobble1.Win8/BubbleBobble1.Win8/GameWorld.cs" Line="141" Column="37" />
+      <File FileName="../BB/BubbleBobble1.Win8/BubbleBobble1.Win8/GameObject.cs" Line="22" Column="1" />
+      <File FileName="../BB/BubbleBobble1.Win8/BubbleBobble1.Win8/Enemy.cs" Line="1" Column="1" />
+      <File FileName="BB.Mac/FarseerPhysics/Vector2.cs" Line="1" Column="1" />
+      <File FileName="BB.Mac/FarseerPhysics/Vector3.cs" Line="1" Column="1" />
+      <File FileName="BB.Mac/FarseerPhysics/DebugViewXNA.cs" Line="1" Column="1" />
+      <File FileName="BB.Mac/FarseerPhysics/Dynamics/World.cs" Line="112" Column="29" />
+      <File FileName="BB.Mac/FarseerPhysics/Dynamics/Contacts/Contact.cs" Line="1" Column="1" />
+      <File FileName="BB.Mac/FarseerPhysics/Common/Matrix.cs" Line="17" Column="3" />
+      <File FileName="BB.Mac/FarseerPhysics/Common/Vector3.cs" Line="1" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

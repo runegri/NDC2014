@@ -3,7 +3,7 @@ using FarseerPhysics.Dynamics;
 using FarseerPhysics.Factories;
 using Microsoft.Xna.Framework;
 
-namespace BubbleBobble1.Win8
+namespace BubbleBobble.MacOS
 {
     public class Wall : GameObject
     {

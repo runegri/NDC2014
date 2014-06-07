@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BubbleBobble1.Win8
+namespace BubbleBobble.MacOS
 {
     public interface IGameInput : IUpdateable
     {

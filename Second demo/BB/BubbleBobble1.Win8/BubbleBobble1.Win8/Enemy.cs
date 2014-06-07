@@ -7,7 +7,7 @@ using FarseerPhysics.Factories;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 
-namespace BubbleBobble1.Win8
+namespace BubbleBobble.MacOS
 {
     public class Enemy : GameObject
     {

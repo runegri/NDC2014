@@ -6,7 +6,7 @@ using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Content;
 using Microsoft.Xna.Framework.Graphics;
 
-namespace BubbleBobble1.Win8
+namespace BubbleBobble.MacOS
 {
     public class GameWorld : IUpdateable
     {
@@ -24,7 +24,7 @@ namespace BubbleBobble1.Win8
         private readonly Camera2D _camera;
         private readonly World _world;
 
-        private readonly DebugViewXNA _debugView;
+		private readonly DebugViewXNA _debugView;
 
         private readonly float _timeStep;
 
@@ -105,7 +105,7 @@ namespace BubbleBobble1.Win8
             CreateBackgroudTexture();
             SetupCamera();
 
-            _debugView.LoadContent(_graphicsDevice, _content);
+			//_debugView.LoadContent(_graphicsDevice, _content);
         }
 
         private void SetupCamera()

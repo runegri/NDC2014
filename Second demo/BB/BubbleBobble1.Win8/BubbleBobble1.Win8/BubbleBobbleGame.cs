@@ -1,9 +1,9 @@
 ﻿using FarseerPhysics;
-using FarseerPhysics.DebugView;
+
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 
-namespace BubbleBobble1.Win8
+namespace BubbleBobble.MacOS
 {
     /// <summary>
     /// This is the main type for your game

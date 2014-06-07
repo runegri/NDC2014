@@ -3,7 +3,7 @@ using Microsoft.Xna.Framework.Content;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input.Touch;
 
-namespace BubbleBobble1.Win8
+namespace BubbleBobble.MacOS
 {
     public class TouchScreenGameInput : IGameInput
     {

@@ -1,4 +1,4 @@
-﻿namespace BubbleBobble1.Win8
+﻿namespace BubbleBobble.MacOS
 {
     public enum MoveDirection
     {

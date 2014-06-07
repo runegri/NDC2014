@@ -3,7 +3,7 @@ using FarseerPhysics.Dynamics;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 
-namespace BubbleBobble1.Win8
+namespace BubbleBobble.MacOS
 {
     public abstract class GameObject : IUpdateable
     {
@@ -48,7 +48,7 @@ namespace BubbleBobble1.Win8
         /// <summary>
         /// Gets or sets the objects position in display units
         /// </summary>
-        public virtual Vector2 Position
+		public virtual Vector2 Position
         {
             get { return ConvertUnits.ToDisplayUnits(Body.Position); }
             set { Body.Position = ConvertUnits.ToSimUnits(value); }
